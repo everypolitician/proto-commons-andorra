@@ -1,0 +1,8 @@
+WARNING: no executive for Cap de Govern del Principat d'Andorra (Q634322) in Andorra (Q228)
+WARNING: no head of government position for Andorra la Vella (Q2522163)
+WARNING: no executive for Cònsol Menor (Q5796921) in Canillo (Q24260)
+WARNING: no executive for Cònsol Menor (Q5796921) in Encamp (Q24269)
+WARNING: no executive for Cònsol Menor (Q5796921) in Ordino (Q24272)
+WARNING: no executive for Cònsol Menor (Q5796921) in La Massana (Q24276)
+WARNING: no executive for Cònsol Menor (Q5796921) in Sant Julià de Lòria (Q24282)
+WARNING: no executive for Cònsol Menor (Q5796921) in Escaldes-Engordany (Q24286)
