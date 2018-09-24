@@ -1,0 +1,73 @@
+{
+  "head" : {
+    "vars" : [ "position", "position_name_ca", "position_name_en", "positionType", "adminAreaTypes", "adminArea", "admin_area_ca", "admin_area_en", "positionSuperclass", "position_superclass_ca", "position_superclass_en", "body", "body_ca", "body_en" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20177831"
+      },
+      "position_name_ca" : {
+        "xml:lang" : "ca",
+        "type" : "literal",
+        "value" : "membre del Consell General d'Andora"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the General Council  of Andorra"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q6256"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q228"
+      },
+      "admin_area_ca" : {
+        "xml:lang" : "ca",
+        "type" : "literal",
+        "value" : "Andorra"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Andorra"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "position_superclass_ca" : {
+        "xml:lang" : "ca",
+        "type" : "literal",
+        "value" : "parlamentari"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24824"
+      },
+      "body_ca" : {
+        "xml:lang" : "ca",
+        "type" : "literal",
+        "value" : "Consell General d'Andorra"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "General Council of Andorra"
+      }
+    } ]
+  }
+}
