@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:ca": "Consell General d'Andorra",
+        "lang:en": "General Council of Andorra"
+      },
+      "id": "Q24824",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24824"
+        }
+      ],
+      "area_id": "Q228",
+      "seat_counts": {
+        "Q20177831": "28"
+      }
+    }
   ],
   "areas": [
 

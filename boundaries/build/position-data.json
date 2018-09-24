@@ -1,0 +1,21 @@
+[
+  {
+    "role_id": "Q20177831",
+    "role_name": {
+      "lang:ca": "membre del Consell General d'Andora",
+      "lang:en": "Member of the General Council  of Andorra"
+    },
+    "generic_role_id": "Q486839",
+    "generic_role_name": {
+      "lang:ca": "parlamentari",
+      "lang:en": "member of parliament"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q24824",
+    "organization_name": {
+      "lang:ca": "Consell General d'Andorra",
+      "lang:en": "General Council of Andorra"
+    }
+  }
+]
