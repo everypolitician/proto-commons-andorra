@@ -2,39 +2,14 @@
   {
     "comment": "General Council of Andorra",
     "house_item_id": "Q24824",
+    "seat_count": "28",
+    "area_id": "Q228",
     "position_item_id": "Q20177831",
     "terms": [
       {
-        "comment": "Q3146695",
-        "term_item_id": "Q3146695"
-      },
-      {
-        "comment": "Q3146703",
-        "term_item_id": "Q3146703"
-      },
-      {
-        "comment": "Q3147005",
-        "term_item_id": "Q3147005"
-      },
-      {
-        "comment": "Q3154302",
-        "term_item_id": "Q3154302"
-      },
-      {
-        "comment": "Q3552949",
-        "term_item_id": "Q3552949"
-      },
-      {
-        "comment": "Q3552960",
-        "term_item_id": "Q3552960"
-      },
-      {
-        "comment": "Q3555148",
-        "term_item_id": "Q3555148"
-      },
-      {
         "comment": "8th Andorran legislature",
-        "term_item_id": "Q21512973"
+        "term_item_id": "Q21512973",
+        "start_date": "2015-03-23"
       }
     ]
   }
